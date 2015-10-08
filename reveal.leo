@@ -2300,10 +2300,10 @@ Diff...
     &lt;section&gt;
         &lt;h1&gt;課程內容&lt;/h1&gt;
         &lt;p&gt;
-            &lt;ul&gt;1.下載“ Ana3_2015 ”檔案。
-        2.登入課程網址，閱讀課程相關文章。
-        3.說明課程內容及綱要。
-            &lt;/ul&gt;
+            &lt;ul&gt;1.下載“ Ana3_2015 ”檔案。&lt;/ul&gt;
+             &lt;ul&gt;2.登入課程網址，閱讀課程相關文章。&lt;/ul&gt;
+             &lt;ul&gt;3.說明課程內容及綱要。&lt;/ul&gt;
+            
         &lt;/p&gt;		
     &lt;/section&gt;
     &lt;section&gt;
