@@ -288,7 +288,11 @@
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
 <v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
-<v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
+<v t="amd.20150915211351.7"><vh>首頁</vh></v>
+<v t="leo.20151008124710.1"><vh>第一週作業</vh></v>
+<v t="leo.20151008125736.1"><vh>第二週作業</vh></v>
+<v t="leo.20151008130843.1"><vh>第三週作業</vh></v>
+<v t="leo.20151008131734.1"><vh>第四週作業</vh></v>
 <v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
 <v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
 </v>
@@ -2025,8 +2029,8 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;40323107&lt;/p&gt;		
+    &lt;h1&gt;四設計二甲&lt;/h1&gt;
+    &lt;p&gt;40323107  廖佑珊&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
@@ -2285,5 +2289,96 @@ Diff...
 &lt;/head&gt;
 @others
 </t>
+<t tx="leo.20151008124710.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;課程內容&lt;/h1&gt;
+        &lt;p&gt;1.下載“ Ana3_2015 ”檔案。
+        2.登入課程網址，閱讀課程相關文章。
+        3.說明課程內容及綱要。&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;心得&lt;/h1&gt;
+        &lt;p&gt;有點懂又有點不懂&lt;/p&gt;		
+    &lt;/section&gt;	
+    &lt;section&gt;
+        &lt;h1&gt;自評&lt;/h1&gt;
+        &lt;p&gt;60&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;理由&lt;/h1&gt;
+        &lt;p&gt;尚未完成&lt;/p&gt;		
+    &lt;/section&gt;
+&lt;/section&gt;    </t>
+<t tx="leo.20151008125736.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;課程內容&lt;/h1&gt;
+        &lt;p&gt;1.說明課程內容及綱要。
+        2.運用 cmd 操作指令。
+        3.Github 創建新倉儲，並利用近端建立分支，新增資料...等。&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;心得&lt;/h1&gt;
+        &lt;p&gt;這一週，延續上一週的步驟，將資料於近端修改後推送至遠端，大致上理解，但還是有不清楚的部分，整體而言還行。&lt;/p&gt;		
+    &lt;/section&gt;	
+    &lt;section&gt;
+        &lt;h1&gt;自評&lt;/h1&gt;
+        &lt;p&gt;70&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;理由&lt;/h1&gt;
+        &lt;p&gt;有收穫&lt;/p&gt;		
+    &lt;/section&gt;
+&lt;/section&gt;    </t>
+<t tx="leo.20151008130843.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;課程內容&lt;/h1&gt;
+        &lt;p&gt;1.說明「科學」與「工程」的差異。
+        2.說明 2015Fall CADP 第3週 的內容。
+        3.下載軟體。
+        4.利用 leo 修改自己的作業。&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;心得&lt;/h1&gt;
+        &lt;p&gt;理解&lt;科學&gt;與&lt;工程&gt;的差異，任務進度也還跟得上，只是有少許不懂而已。&lt;/p&gt;		
+    &lt;/section&gt;	
+    &lt;section&gt;
+        &lt;h1&gt;自評&lt;/h1&gt;
+        &lt;p&gt;80&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;理由&lt;/h1&gt;
+        &lt;p&gt;進度完成&lt;/p&gt;		
+    &lt;/section&gt;
+&lt;/section&gt;    </t>
+<t tx="leo.20151008131734.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;課程內容&lt;/h1&gt;
+        &lt;p&gt;目前無內容&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;心得&lt;/h1&gt;
+        &lt;p&gt;無&lt;/p&gt;		
+    &lt;/section&gt;	
+    &lt;section&gt;
+        &lt;h1&gt;自評&lt;/h1&gt;
+        &lt;p&gt;60&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;理由&lt;/h1&gt;
+        &lt;p&gt;等待&lt;/p&gt;		
+    &lt;/section&gt;
+&lt;/section&gt;    </t>
 </tnodes>
 </leo_file>
