@@ -2294,8 +2294,12 @@ Diff...
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;section&gt;
+        &lt;h1&gt;第一週作業&lt;/h1&gt;
+        &lt;p&gt;2015 / 09 / 17&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
         &lt;h1&gt;課程內容&lt;/h1&gt;
-        &lt;p&gt;1.下載“ Ana3_2015 ”檔案。&lt;/br&gt;
+        &lt;p&gt;1.下載“ Ana3_2015 ”檔案。
         2.登入課程網址，閱讀課程相關文章。
         3.說明課程內容及綱要。&lt;/p&gt;		
     &lt;/section&gt;
@@ -2316,6 +2320,10 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;第二週作業&lt;/h1&gt;
+        &lt;p&gt;2015 / 09 / 24&lt;/p&gt;		
+    &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;課程內容&lt;/h1&gt;
         &lt;p&gt;1.說明課程內容及綱要。
@@ -2340,6 +2348,10 @@ Diff...
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;section&gt;
+        &lt;h1&gt;第三週作業&lt;/h1&gt;
+        &lt;p&gt;2015 / 10 / 01&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
         &lt;h1&gt;課程內容&lt;/h1&gt;
         &lt;p&gt;1.說明「科學」與「工程」的差異。
         2.說明 2015Fall CADP 第3週 的內容。
@@ -2363,6 +2375,10 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;第四週作業&lt;/h1&gt;
+        &lt;p&gt;2015 / 10 / 08&lt;/p&gt;		
+    &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;課程內容&lt;/h1&gt;
         &lt;p&gt;目前無內容&lt;/p&gt;		
