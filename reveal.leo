@@ -2299,9 +2299,12 @@ Diff...
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;課程內容&lt;/h1&gt;
-        &lt;p&gt;1.下載“ Ana3_2015 ”檔案。
+        &lt;p&gt;
+            &lt;ul&gt;1.下載“ Ana3_2015 ”檔案。
         2.登入課程網址，閱讀課程相關文章。
-        3.說明課程內容及綱要。&lt;/p&gt;		
+        3.說明課程內容及綱要。
+            &lt;/ul&gt;
+        &lt;/p&gt;		
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;心得&lt;/h1&gt;
@@ -2315,7 +2318,9 @@ Diff...
         &lt;h1&gt;理由&lt;/h1&gt;
         &lt;p&gt;尚未完成&lt;/p&gt;		
     &lt;/section&gt;
-&lt;/section&gt;    </t>
+&lt;/section&gt;
+
+	   </t>
 <t tx="leo.20151008125736.1">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
@@ -2381,11 +2386,12 @@ Diff...
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;課程內容&lt;/h1&gt;
-        &lt;p&gt;目前無內容&lt;/p&gt;		
+        &lt;p&gt;1搜尋 solvespace ， 並下載。
+            2.利用 solvespace 畫圖。&lt;/p&gt;		
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;心得&lt;/h1&gt;
-        &lt;p&gt;無&lt;/p&gt;		
+        &lt;p&gt;solvespace繪圖軟體有點深奧呢！&lt;/p&gt;		
     &lt;/section&gt;	
     &lt;section&gt;
         &lt;h1&gt;自評&lt;/h1&gt;
