@@ -40,6 +40,7 @@
 <v t="leo.20151015154637.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="leo.20151015154715.1"><vh>@edit 2015cphww3.md</vh></v>
 <v t="leo.20151015154744.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t="leo.20151015160702.1"><vh>@edit 2015cphww5.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -506,6 +507,12 @@
 <v t="leo.20151015154414.2"><vh>Recovered node "第三週作業" from @clean simplest.html</vh>
 <v t="leo.20151015154414.3"><vh>old:第三週作業</vh></v>
 <v t="leo.20151015154414.4"><vh>new:第三週作業</vh></v>
+</v>
+</v>
+<v t="leo.20151015160550.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20151015160550.3"><vh>Recovered node "第三週作業" from @clean simplest.html</vh>
+<v t="leo.20151015160550.4"><vh>old:第三週作業</vh></v>
+<v t="leo.20151015160550.5"><vh>new:第三週作業</vh></v>
 </v>
 </v>
 </vnodes>
@@ -2431,7 +2438,7 @@ Diff...
           &lt;p&gt;1.說明「科學」與「工程」的差異。
           2.說明 2015Fall CADP 第3週 的內容。
           3.下載軟體。
--         4.利用 leo 修改自己的作業。&lt;/p&gt;		
+-         4. 利用 leo 修改自己的作業。&lt;/p&gt;		
 ?           ^
 +         4. 利用 leo 修改自己的作業。&lt;/p&gt;		
 ?           ^
@@ -2480,6 +2487,99 @@ Diff...
     &lt;/section&gt;
 &lt;/section&gt;    </t>
 <t tx="leo.20151015154414.4">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;第三週作業&lt;/h1&gt;
+        &lt;p&gt;2015 / 10 / 01&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;課程內容&lt;/h1&gt;
+        &lt;p&gt;1.說明「科學」與「工程」的差異。
+        2.說明 2015Fall CADP 第3週 的內容。
+        3.下載軟體。
+        4. 利用 leo 修改自己的作業。&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;心得&lt;/h1&gt;
+        &lt;p&gt;理解&lt;科學&gt;與&lt;工程&gt;的差異，任務進度也還跟得上，只是有少許不懂而已。&lt;/p&gt;		
+    &lt;/section&gt;	
+    &lt;section&gt;
+        &lt;h1&gt;自評&lt;/h1&gt;
+        &lt;p&gt;80&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;理由&lt;/h1&gt;
+        &lt;p&gt;進度完成&lt;/p&gt;		
+    &lt;/section&gt;
+&lt;/section&gt;    
+</t>
+<t tx="leo.20151015160550.2"></t>
+<t tx="leo.20151015160550.3">(uncached) leo.20151008130843.1
+Diff...
+  &lt;!-- 以下為投影片 --&gt;
+  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+  &lt;section&gt;
+      &lt;section&gt;
+          &lt;h1&gt;第三週作業&lt;/h1&gt;
+          &lt;p&gt;2015 / 10 / 01&lt;/p&gt;		
+      &lt;/section&gt;
+      &lt;section&gt;
+          &lt;h1&gt;課程內容&lt;/h1&gt;
+          &lt;p&gt;1.說明「科學」與「工程」的差異。
+          2.說明 2015Fall CADP 第3週 的內容。
+          3.下載軟體。
+-         4.利用 leo 修改自己的作業。&lt;/p&gt;		
+?           ^
++         4. 利用 leo 修改自己的作業。&lt;/p&gt;		
+?           ^
+      &lt;/section&gt;
+      &lt;section&gt;
+          &lt;h1&gt;心得&lt;/h1&gt;
+          &lt;p&gt;理解&lt;科學&gt;與&lt;工程&gt;的差異，任務進度也還跟得上，只是有少許不懂而已。&lt;/p&gt;		
+      &lt;/section&gt;	
+      &lt;section&gt;
+          &lt;h1&gt;自評&lt;/h1&gt;
+          &lt;p&gt;80&lt;/p&gt;		
+      &lt;/section&gt;
+      &lt;section&gt;
+          &lt;h1&gt;理由&lt;/h1&gt;
+          &lt;p&gt;進度完成&lt;/p&gt;		
+      &lt;/section&gt;
+  &lt;/section&gt;    
+</t>
+<t tx="leo.20151015160550.4">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;第三週作業&lt;/h1&gt;
+        &lt;p&gt;2015 / 10 / 01&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;課程內容&lt;/h1&gt;
+        &lt;p&gt;1.說明「科學」與「工程」的差異。
+        2.說明 2015Fall CADP 第3週 的內容。
+        3.下載軟體。
+        4. 利用 leo 修改自己的作業。&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;心得&lt;/h1&gt;
+        &lt;p&gt;理解&lt;科學&gt;與&lt;工程&gt;的差異，任務進度也還跟得上，只是有少許不懂而已。&lt;/p&gt;		
+    &lt;/section&gt;	
+    &lt;section&gt;
+        &lt;h1&gt;自評&lt;/h1&gt;
+        &lt;p&gt;80&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;理由&lt;/h1&gt;
+        &lt;p&gt;進度完成&lt;/p&gt;		
+    &lt;/section&gt;
+&lt;/section&gt;    
+</t>
+<t tx="leo.20151015160550.5">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
