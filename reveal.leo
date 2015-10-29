@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
+<!-- Created by Leo (http://leoeditor.com/leo_toc.html) -->
 <?xml-stylesheet ekr_test ?>
-<leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
+<leo_file xmlns:leo="http://www.leo-editor.org/2011/leo" >
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
 	<global_window_position top="50" left="50" height="500" width="700"/>
@@ -10,7 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
+<v t="amd.20150913232631.1"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 <v t="amd.20150915153206.1" a="E"><vh>專案說明</vh>
@@ -20,7 +20,7 @@
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -28,7 +28,7 @@
 <v t="amd.20150919104249.1"><vh>檢查 profile 位置</vh></v>
 </v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
-<v t="amd.20150919112710.1" a="E"><vh>@path pelican</vh>
+<v t="amd.20150919112710.1"><vh>@path pelican</vh>
 <v t="amd.20150919113340.1"><vh>以下為與 pelican 有關的設定檔案</vh></v>
 <v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
 </v>
@@ -77,7 +77,7 @@
 <v t="amd.20150915155634.5"><vh>meta - 說明</vh></v>
 <v t="amd.20150915155634.7"><vh>script - css 與 pdf 列印</vh></v>
 </v>
-<v t="amd.20150915155634.8"><vh>body</vh>
+<v t="amd.20150915155634.8" a="E"><vh>body</vh>
 <v t="amd.20150915155634.9" a="E"><vh>div - reveal</vh>
 <v t="amd.20150915155634.10" a="E"><vh>div - slides</vh>
 <v t="amd.20150915155634.11"><vh>h1 - 課程說明</vh></v>
@@ -274,8 +274,8 @@
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
 <v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
-<v t="ibm.20150918175403.5" a="E"><vh>div class="reveal"</vh>
-<v t="ibm.20150918175403.6" a="E"><vh>div class="slides"</vh>
+<v t="ibm.20150918175403.5"><vh>div class="reveal"</vh>
+<v t="ibm.20150918175403.6"><vh>div class="slides"</vh>
 <v t="ibm.20150918175403.7"><vh>有關我的作業</vh></v>
 <v t="ibm.20150918175403.8"><vh>課程規劃</vh></v>
 <v t="ibm.20150918175403.9"><vh>作業規劃</vh></v>
@@ -320,7 +320,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151029152340.1"><vh>@clean simplest3.html</vh>
+<v t="leo.20151029152340.1" a="E"><vh>@clean simplest3.html</vh>
 <v t="leo.20151029152340.2"><vh>檔案說明</vh></v>
 <v t="leo.20151029152340.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151029152340.4" a="E"><vh>body 標註</vh>
@@ -590,36 +590,6 @@
 <v t="amd.20150915170743.149"><vh>script</vh></v>
 <v t="amd.20150915170743.150"><vh>script</vh></v>
 </v>
-</v>
-</v>
-<v t="leo.20151001154522.2"><vh>Recovered Nodes</vh>
-<v t="leo.20151001154522.3"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
-<v t="leo.20151001154522.4"><vh>old:html 標註</vh></v>
-<v t="leo.20151001154522.5"><vh>new:html 標註</vh></v>
-</v>
-</v>
-<v t="leo.20151015154414.1"><vh>Recovered Nodes</vh>
-<v t="leo.20151015154414.2"><vh>Recovered node "第三週作業" from @clean simplest.html</vh>
-<v t="leo.20151015154414.3"><vh>old:第三週作業</vh></v>
-<v t="leo.20151015154414.4"><vh>new:第三週作業</vh></v>
-</v>
-</v>
-<v t="leo.20151015160550.2"><vh>Recovered Nodes</vh>
-<v t="leo.20151015160550.3"><vh>Recovered node "第三週作業" from @clean simplest.html</vh>
-<v t="leo.20151015160550.4"><vh>old:第三週作業</vh></v>
-<v t="leo.20151015160550.5"><vh>new:第三週作業</vh></v>
-</v>
-</v>
-<v t="leo.20151022130101.1"><vh>Recovered Nodes</vh>
-<v t="leo.20151022130101.2"><vh>Recovered node "第三週作業" from @clean simplest.html</vh>
-<v t="leo.20151022130101.3"><vh>old:第三週作業</vh></v>
-<v t="leo.20151022130101.4"><vh>new:第三週作業</vh></v>
-</v>
-</v>
-<v t="leo.20151029151857.1"><vh>Recovered Nodes</vh>
-<v t="leo.20151029151857.2"><vh>Recovered node "第三週作業" from @clean simplest.html</vh>
-<v t="leo.20151029151857.3"><vh>old:第三週作業</vh></v>
-<v t="leo.20151029151857.4"><vh>new:第三週作業</vh></v>
 </v>
 </v>
 </vnodes>
@@ -2361,57 +2331,6 @@ g.es("pelican 執行完畢")</t>
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20151001154522.2"></t>
-<t tx="leo.20151001154522.3">(uncached) amd.20150915211351.1
-Diff...
-  &lt;!doctype html&gt;
-  &lt;html lang="en"&gt;
-  &lt;head&gt;
-  &lt;meta charset="utf-8"&gt;
-  &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-  &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-  	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-  	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-  	&lt;!--[if lt IE 9]&gt;
-  	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-  	&lt;![endif]--&gt;
-  &lt;/head&gt;
-+ &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-+ &lt;/html&gt;
-+ &gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
-  @others
-</t>
-<t tx="leo.20151001154522.4">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-&lt;/html&gt;
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
-@others
-</t>
-<t tx="leo.20151001154522.5">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
 <t tx="leo.20151008124710.1">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
@@ -2444,378 +2363,6 @@ Diff...
 &lt;/section&gt;
 
 	   
-</t>
-<t tx="leo.20151015154414.1"></t>
-<t tx="leo.20151015154414.2">(uncached) leo.20151008130843.1
-Diff...
-  &lt;!-- 以下為投影片 --&gt;
-  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-  &lt;section&gt;
-      &lt;section&gt;
-          &lt;h1&gt;第三週作業&lt;/h1&gt;
-          &lt;p&gt;2015 / 10 / 01&lt;/p&gt;		
-      &lt;/section&gt;
-      &lt;section&gt;
-          &lt;h1&gt;課程內容&lt;/h1&gt;
-          &lt;p&gt;1.說明「科學」與「工程」的差異。
-          2.說明 2015Fall CADP 第3週 的內容。
-          3.下載軟體。
--         4. 利用 leo 修改自己的作業。&lt;/p&gt;		
-?           ^
-+         4. 利用 leo 修改自己的作業。&lt;/p&gt;		
-?           ^
-      &lt;/section&gt;
-      &lt;section&gt;
-          &lt;h1&gt;心得&lt;/h1&gt;
-          &lt;p&gt;理解&lt;科學&gt;與&lt;工程&gt;的差異，任務進度也還跟得上，只是有少許不懂而已。&lt;/p&gt;		
-      &lt;/section&gt;	
-      &lt;section&gt;
-          &lt;h1&gt;自評&lt;/h1&gt;
-          &lt;p&gt;80&lt;/p&gt;		
-      &lt;/section&gt;
-      &lt;section&gt;
-          &lt;h1&gt;理由&lt;/h1&gt;
-          &lt;p&gt;進度完成&lt;/p&gt;		
-      &lt;/section&gt;
-- &lt;/section&gt;    
-?               -
-+ &lt;/section&gt;    </t>
-<t tx="leo.20151015154414.3">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;第三週作業&lt;/h1&gt;
-        &lt;p&gt;2015 / 10 / 01&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;課程內容&lt;/h1&gt;
-        &lt;p&gt;1.說明「科學」與「工程」的差異。
-        2.說明 2015Fall CADP 第3週 的內容。
-        3.下載軟體。
-        4. 利用 leo 修改自己的作業。&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;心得&lt;/h1&gt;
-        &lt;p&gt;理解&lt;科學&gt;與&lt;工程&gt;的差異，任務進度也還跟得上，只是有少許不懂而已。&lt;/p&gt;		
-    &lt;/section&gt;	
-    &lt;section&gt;
-        &lt;h1&gt;自評&lt;/h1&gt;
-        &lt;p&gt;80&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;理由&lt;/h1&gt;
-        &lt;p&gt;進度完成&lt;/p&gt;		
-    &lt;/section&gt;
-&lt;/section&gt;    </t>
-<t tx="leo.20151015154414.4">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;第三週作業&lt;/h1&gt;
-        &lt;p&gt;2015 / 10 / 01&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;課程內容&lt;/h1&gt;
-        &lt;p&gt;1.說明「科學」與「工程」的差異。
-        2.說明 2015Fall CADP 第3週 的內容。
-        3.下載軟體。
-        4. 利用 leo 修改自己的作業。&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;心得&lt;/h1&gt;
-        &lt;p&gt;理解&lt;科學&gt;與&lt;工程&gt;的差異，任務進度也還跟得上，只是有少許不懂而已。&lt;/p&gt;		
-    &lt;/section&gt;	
-    &lt;section&gt;
-        &lt;h1&gt;自評&lt;/h1&gt;
-        &lt;p&gt;80&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;理由&lt;/h1&gt;
-        &lt;p&gt;進度完成&lt;/p&gt;		
-    &lt;/section&gt;
-&lt;/section&gt;    
-</t>
-<t tx="leo.20151015160550.2"></t>
-<t tx="leo.20151015160550.3">(uncached) leo.20151008130843.1
-Diff...
-  &lt;!-- 以下為投影片 --&gt;
-  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-  &lt;section&gt;
-      &lt;section&gt;
-          &lt;h1&gt;第三週作業&lt;/h1&gt;
-          &lt;p&gt;2015 / 10 / 01&lt;/p&gt;		
-      &lt;/section&gt;
-      &lt;section&gt;
-          &lt;h1&gt;課程內容&lt;/h1&gt;
-          &lt;p&gt;1.說明「科學」與「工程」的差異。
-          2.說明 2015Fall CADP 第3週 的內容。
-          3.下載軟體。
--         4. 利用 leo 修改自己的作業。&lt;/p&gt;		
-?           ^
-+         4. 利用 leo 修改自己的作業。&lt;/p&gt;		
-?           ^
-      &lt;/section&gt;
-      &lt;section&gt;
-          &lt;h1&gt;心得&lt;/h1&gt;
-          &lt;p&gt;理解&lt;科學&gt;與&lt;工程&gt;的差異，任務進度也還跟得上，只是有少許不懂而已。&lt;/p&gt;		
-      &lt;/section&gt;	
-      &lt;section&gt;
-          &lt;h1&gt;自評&lt;/h1&gt;
-          &lt;p&gt;80&lt;/p&gt;		
-      &lt;/section&gt;
-      &lt;section&gt;
-          &lt;h1&gt;理由&lt;/h1&gt;
-          &lt;p&gt;進度完成&lt;/p&gt;		
-      &lt;/section&gt;
-  &lt;/section&gt;    
-</t>
-<t tx="leo.20151015160550.4">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;第三週作業&lt;/h1&gt;
-        &lt;p&gt;2015 / 10 / 01&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;課程內容&lt;/h1&gt;
-        &lt;p&gt;1.說明「科學」與「工程」的差異。
-        2.說明 2015Fall CADP 第3週 的內容。
-        3.下載軟體。
-        4. 利用 leo 修改自己的作業。&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;心得&lt;/h1&gt;
-        &lt;p&gt;理解&lt;科學&gt;與&lt;工程&gt;的差異，任務進度也還跟得上，只是有少許不懂而已。&lt;/p&gt;		
-    &lt;/section&gt;	
-    &lt;section&gt;
-        &lt;h1&gt;自評&lt;/h1&gt;
-        &lt;p&gt;80&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;理由&lt;/h1&gt;
-        &lt;p&gt;進度完成&lt;/p&gt;		
-    &lt;/section&gt;
-&lt;/section&gt;    
-</t>
-<t tx="leo.20151015160550.5">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;第三週作業&lt;/h1&gt;
-        &lt;p&gt;2015 / 10 / 01&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;課程內容&lt;/h1&gt;
-        &lt;p&gt;1.說明「科學」與「工程」的差異。
-        2.說明 2015Fall CADP 第3週 的內容。
-        3.下載軟體。
-        4. 利用 leo 修改自己的作業。&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;心得&lt;/h1&gt;
-        &lt;p&gt;理解&lt;科學&gt;與&lt;工程&gt;的差異，任務進度也還跟得上，只是有少許不懂而已。&lt;/p&gt;		
-    &lt;/section&gt;	
-    &lt;section&gt;
-        &lt;h1&gt;自評&lt;/h1&gt;
-        &lt;p&gt;80&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;理由&lt;/h1&gt;
-        &lt;p&gt;進度完成&lt;/p&gt;		
-    &lt;/section&gt;
-&lt;/section&gt;    
-</t>
-<t tx="leo.20151022130101.1"></t>
-<t tx="leo.20151022130101.2">(uncached) leo.20151008130843.1
-Diff...
-  &lt;!-- 以下為投影片 --&gt;
-  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-  &lt;section&gt;
-      &lt;section&gt;
-          &lt;h1&gt;第三週作業&lt;/h1&gt;
-          &lt;p&gt;2015 / 10 / 01&lt;/p&gt;		
-      &lt;/section&gt;
-      &lt;section&gt;
-          &lt;h1&gt;課程內容&lt;/h1&gt;
-          &lt;p&gt;1.說明「科學」與「工程」的差異。
-          2.說明 2015Fall CADP 第3週 的內容。
-          3.下載軟體。
--         4. 利用 leo 修改自己的作業。&lt;/p&gt;		
-?           ^
-+         4. 利用 leo 修改自己的作業。&lt;/p&gt;		
-?           ^
-      &lt;/section&gt;
-      &lt;section&gt;
-          &lt;h1&gt;心得&lt;/h1&gt;
-          &lt;p&gt;理解&lt;科學&gt;與&lt;工程&gt;的差異，任務進度也還跟得上，只是有少許不懂而已。&lt;/p&gt;		
-      &lt;/section&gt;	
-      &lt;section&gt;
-          &lt;h1&gt;自評&lt;/h1&gt;
-          &lt;p&gt;80&lt;/p&gt;		
-      &lt;/section&gt;
-      &lt;section&gt;
-          &lt;h1&gt;理由&lt;/h1&gt;
-          &lt;p&gt;進度完成&lt;/p&gt;		
-      &lt;/section&gt;
-  &lt;/section&gt;    
-</t>
-<t tx="leo.20151022130101.3">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;第三週作業&lt;/h1&gt;
-        &lt;p&gt;2015 / 10 / 01&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;課程內容&lt;/h1&gt;
-        &lt;p&gt;1.說明「科學」與「工程」的差異。
-        2.說明 2015Fall CADP 第3週 的內容。
-        3.下載軟體。
-        4. 利用 leo 修改自己的作業。&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;心得&lt;/h1&gt;
-        &lt;p&gt;理解&lt;科學&gt;與&lt;工程&gt;的差異，任務進度也還跟得上，只是有少許不懂而已。&lt;/p&gt;		
-    &lt;/section&gt;	
-    &lt;section&gt;
-        &lt;h1&gt;自評&lt;/h1&gt;
-        &lt;p&gt;80&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;理由&lt;/h1&gt;
-        &lt;p&gt;進度完成&lt;/p&gt;		
-    &lt;/section&gt;
-&lt;/section&gt;    
-</t>
-<t tx="leo.20151022130101.4">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;第三週作業&lt;/h1&gt;
-        &lt;p&gt;2015 / 10 / 01&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;課程內容&lt;/h1&gt;
-        &lt;p&gt;1.說明「科學」與「工程」的差異。
-        2.說明 2015Fall CADP 第3週 的內容。
-        3.下載軟體。
-        4. 利用 leo 修改自己的作業。&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;心得&lt;/h1&gt;
-        &lt;p&gt;理解&lt;科學&gt;與&lt;工程&gt;的差異，任務進度也還跟得上，只是有少許不懂而已。&lt;/p&gt;		
-    &lt;/section&gt;	
-    &lt;section&gt;
-        &lt;h1&gt;自評&lt;/h1&gt;
-        &lt;p&gt;80&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;理由&lt;/h1&gt;
-        &lt;p&gt;進度完成&lt;/p&gt;		
-    &lt;/section&gt;
-&lt;/section&gt;    
-</t>
-<t tx="leo.20151029151857.1"></t>
-<t tx="leo.20151029151857.2">(uncached) leo.20151008130843.1
-Diff...
-  &lt;!-- 以下為投影片 --&gt;
-  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-  &lt;section&gt;
-      &lt;section&gt;
-          &lt;h1&gt;第三週作業&lt;/h1&gt;
-          &lt;p&gt;2015 / 10 / 01&lt;/p&gt;		
-      &lt;/section&gt;
-      &lt;section&gt;
-          &lt;h1&gt;課程內容&lt;/h1&gt;
-          &lt;p&gt;1.說明「科學」與「工程」的差異。
-          2.說明 2015Fall CADP 第3週 的內容。
-          3.下載軟體。
--         4.利用 leo 修改自己的作業。&lt;/p&gt;		
-?           ^
-+         4. 利用 leo 修改自己的作業。&lt;/p&gt;		
-?           ^
-      &lt;/section&gt;
-      &lt;section&gt;
-          &lt;h1&gt;心得&lt;/h1&gt;
-          &lt;p&gt;理解&lt;科學&gt;與&lt;工程&gt;的差異，任務進度也還跟得上，只是有少許不懂而已。&lt;/p&gt;		
-      &lt;/section&gt;	
-      &lt;section&gt;
-          &lt;h1&gt;自評&lt;/h1&gt;
-          &lt;p&gt;80&lt;/p&gt;		
-      &lt;/section&gt;
-      &lt;section&gt;
-          &lt;h1&gt;理由&lt;/h1&gt;
-          &lt;p&gt;進度完成&lt;/p&gt;		
-      &lt;/section&gt;
-  &lt;/section&gt;    
-</t>
-<t tx="leo.20151029151857.3">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;第三週作業&lt;/h1&gt;
-        &lt;p&gt;2015 / 10 / 01&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;課程內容&lt;/h1&gt;
-        &lt;p&gt;1.說明「科學」與「工程」的差異。
-        2.說明 2015Fall CADP 第3週 的內容。
-        3.下載軟體。
-        4. 利用 leo 修改自己的作業。&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;心得&lt;/h1&gt;
-        &lt;p&gt;理解&lt;科學&gt;與&lt;工程&gt;的差異，任務進度也還跟得上，只是有少許不懂而已。&lt;/p&gt;		
-    &lt;/section&gt;	
-    &lt;section&gt;
-        &lt;h1&gt;自評&lt;/h1&gt;
-        &lt;p&gt;80&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;理由&lt;/h1&gt;
-        &lt;p&gt;進度完成&lt;/p&gt;		
-    &lt;/section&gt;
-&lt;/section&gt;    
-</t>
-<t tx="leo.20151029151857.4">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;第三週作業&lt;/h1&gt;
-        &lt;p&gt;2015 / 10 / 01&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;課程內容&lt;/h1&gt;
-        &lt;p&gt;1.說明「科學」與「工程」的差異。
-        2.說明 2015Fall CADP 第3週 的內容。
-        3.下載軟體。
-        4.利用 leo 修改自己的作業。&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;心得&lt;/h1&gt;
-        &lt;p&gt;理解&lt;科學&gt;與&lt;工程&gt;的差異，任務進度也還跟得上，只是有少許不懂而已。&lt;/p&gt;		
-    &lt;/section&gt;	
-    &lt;section&gt;
-        &lt;h1&gt;自評&lt;/h1&gt;
-        &lt;p&gt;80&lt;/p&gt;		
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h1&gt;理由&lt;/h1&gt;
-        &lt;p&gt;進度完成&lt;/p&gt;		
-    &lt;/section&gt;
-&lt;/section&gt;    
 </t>
 <t tx="leo.20151029152238.1">@language xml
 @tabwidth -4

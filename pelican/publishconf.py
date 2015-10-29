@@ -8,7 +8,7 @@ from __future__ import unicode_literals
 import os
 
 AUTHOR = 'KMOL'
-SITENAME = '2015FALL KMOL 課程'
+SITENAME = '2015FALL CADP 課程'
 SITEURL = ''
 
 PATH = 'content'
@@ -27,6 +27,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
          ('Python', 'http://python.org/'),
+         ('40323107個人網頁','file:///V:/tmp/cadp/category/python.html'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
