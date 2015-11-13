@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Created by Leo (http://leoeditor.com/leo_toc.html) -->
+<!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <?xml-stylesheet ekr_test ?>
-<leo_file xmlns:leo="http://www.leo-editor.org/2011/leo" >
+<leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
 	<global_window_position top="50" left="50" height="500" width="700"/>
@@ -28,7 +28,7 @@
 <v t="amd.20150919104249.1"><vh>檢查 profile 位置</vh></v>
 </v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
-<v t="amd.20150919112710.1"><vh>@path pelican</vh>
+<v t="amd.20150919112710.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20150919113340.1"><vh>以下為與 pelican 有關的設定檔案</vh></v>
 <v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
 </v>
@@ -43,6 +43,8 @@
 <v t="leo.20151015160702.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo.20151022130206.1"><vh>@edit 2015cphww6.md</vh></v>
 <v t="leo.20151029155731.1"><vh>@edit 2015cphww7.md</vh></v>
+<v t="leo.20151114013932.1"><vh>@edit 2015cphww8.md</vh></v>
+<v t="leo.20151114014638.1"><vh>@edit 2015cphww9.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -320,7 +322,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151029152340.1" a="E"><vh>@clean simplest3.html</vh>
+<v t="leo.20151029152340.1"><vh>@clean simplest3.html</vh>
 <v t="leo.20151029152340.2"><vh>檔案說明</vh></v>
 <v t="leo.20151029152340.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151029152340.4" a="E"><vh>body 標註</vh>
@@ -397,6 +399,38 @@
 </v>
 </v>
 <v t="leo.20151029153352.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151114014532.1"><vh>@clean simplest8.html</vh>
+<v t="leo.20151114014532.2"><vh>檔案說明</vh></v>
+<v t="leo.20151114014532.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151114014532.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151114014532.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151114014532.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151114014532.7"><vh>首頁</vh></v>
+<v t="leo.20151114014532.8"><vh>第八週作業</vh></v>
+<v t="leo.20151114014532.9"><vh>作業任務一</vh></v>
+<v t="leo.20151114014532.10"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151114014532.11"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151114014901.1"><vh>@clean simplest9.html</vh>
+<v t="leo.20151114014901.2"><vh>檔案說明</vh></v>
+<v t="leo.20151114014901.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151114014901.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151114014901.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151114014901.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151114014901.7"><vh>首頁</vh></v>
+<v t="leo.20151114014901.8"><vh>第九週作業</vh></v>
+<v t="leo.20151114014901.9"><vh>作業任務一</vh></v>
+<v t="leo.20151114014901.10"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151114014901.11"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -2972,6 +3006,216 @@ g.es("pelican 執行完畢")</t>
 &lt;/section&gt;
 
 	   
+</t>
+<t tx="leo.20151114014532.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151114014532.10">&lt;section&gt;
+    &lt;h1&gt;第3張投影片&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151114014532.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151114014532.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151114014532.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151114014532.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151114014532.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151114014532.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151114014532.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二甲&lt;/h1&gt;
+    &lt;p&gt;40323107  廖佑珊&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151114014532.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;第八週作業&lt;/h1&gt;
+        &lt;p&gt;2015 / 11 / 05&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;課程內容&lt;/h1&gt;
+        &lt;p&gt;
+            &lt;ul&gt;1.接續上週作業。&lt;/ul&gt;
+             &lt;ul&gt;2.說明如何確認協同衝突與解決。&lt;/ul&gt;
+             &lt;ul&gt;3.&lt;/ul&gt;
+            
+        &lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;心得&lt;/h1&gt;
+        &lt;p&gt;學會解決leo的衝突，並幫助同學。&lt;/p&gt;		
+    &lt;/section&gt;	
+    &lt;section&gt;
+        &lt;h1&gt;自評&lt;/h1&gt;
+        &lt;p&gt;80&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;理由&lt;/h1&gt;
+        &lt;p&gt;有進度&lt;/p&gt;		
+    &lt;/section&gt;
+&lt;/section&gt;
+
+	   
+</t>
+<t tx="leo.20151114014532.9">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151114014901.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151114014901.10">&lt;section&gt;
+    &lt;h1&gt;第3張投影片&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151114014901.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151114014901.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151114014901.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151114014901.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151114014901.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151114014901.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151114014901.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二甲&lt;/h1&gt;
+    &lt;p&gt;40323107  廖佑珊&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151114014901.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;第九週作業&lt;/h1&gt;
+        &lt;p&gt;2015 / 11 / 12&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;課程內容&lt;/h1&gt;
+        &lt;p&gt;
+            &lt;ul&gt;1.評分&lt;/ul&gt;
+             &lt;ul&gt;2.說明&lt;/ul&gt;
+             &lt;ul&gt;3.做作業&lt;/ul&gt;
+            
+        &lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;心得&lt;/h1&gt;
+        &lt;p&gt;學會知識&lt;/p&gt;		
+    &lt;/section&gt;	
+    &lt;section&gt;
+        &lt;h1&gt;自評&lt;/h1&gt;
+        &lt;p&gt;80&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;理由&lt;/h1&gt;
+        &lt;p&gt;有進度&lt;/p&gt;		
+    &lt;/section&gt;
+&lt;/section&gt;
+
+	   
+</t>
+<t tx="leo.20151114014901.9">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
 </t>
 </tnodes>
 </leo_file>
